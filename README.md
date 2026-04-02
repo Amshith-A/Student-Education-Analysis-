@@ -3,10 +3,12 @@ A comprehensive dataset analyzing student academic performance, attendance, life
 ##Dataset Used
 - <a href="https://github.com/Amshith-A/Student-Education-Analysis-/blob/main/Education_Dataset.xlsx">DataSet</a>
 
-##📊 Dataset Description
+## 📊 Dataset Description
+
 The core dataset (Education_Dataset.csv) contains detailed records of students, encompassing demographic, academic, and lifestyle variables.
 
-##Key Features (Columns):
+## Key Features (Columns):
+
 
 Student_ID: Unique identifier for each student.
 
@@ -32,7 +34,7 @@ Sleep_Hours: Average nightly sleep duration.
 
 Counseling_Access: Whether the student has access to counseling services (Yes/No).
 
-##🔍 Key Analyses & Insights Performed
+## 🔍 Key Analyses & Insights Performed
 Based on the aggregated data and pivot tables, the following key analyses were conducted:
 
 Top Scorers Analysis (Top scorer by gender from years.csv)
